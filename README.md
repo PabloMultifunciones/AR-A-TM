@@ -17,6 +17,8 @@ El vector de gradiente de f en el punto (x0,y0) es perpendicular a la curva de n
 
 ![4tIrxcSxgGzRfW1yQhV5HuVh6i5qUWrYKZpokBZOv4QpFO4jSfjnBXK6vfjzVg_D847_Sk2iRB8Bf0jV-CFyLl03rJjiktWDsOc5U-mMH3wTHNuW5PQTVXaFWn8BBFMK9QCVsoc](https://user-images.githubusercontent.com/95035101/201492083-e275a57d-77ac-476e-8641-f585d3e1878e.jpg)
 
+#### El símbolo ∇ se conoce como "nabla" y representa al vector gradiente ####
+
 ### 3. Probabilidad Condicionada ###
 La probabilidad condicional de A dado B está definida como:
 
